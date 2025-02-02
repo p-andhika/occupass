@@ -1,10 +1,17 @@
-First install Dependencies:
+### Node Version
+
+```bash
+v18.20
+```
+
+
+### First install Dependencies
 
 ```bash
 npm install
 ```
 
-## Run
+### Run
 
 Start on `http://localhost:5173`
 
